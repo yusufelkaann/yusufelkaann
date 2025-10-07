@@ -24,7 +24,7 @@ I’m currently working as a Flutter Developer intern and developed a **freelanc
 
 ### 🌟 Featured Projects
 
-#### 🏢 Internship Project
+#### 🏢 Internship
 > Developed as part of a **team** during my Flutter internship.  
 > Contributed to the app’s frontend, UI/UX implementation, and feature integration.  
 
