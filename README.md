@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Yusuf Elkaan
-
 🎓 **Student** | 💻 **Flutter Developer** | 💼 **Freelancer**  
 📍 Based in *Izmir, Turkey*
 
