@@ -14,8 +14,8 @@ I’m currently working as a Flutter Developer intern and developed a **freelanc
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Dart, Java  
-- **Frameworks:** Flutter, Spring Boot *(learning)*  
+- **Languages:** Dart, Java, JavaScript
+- **Frameworks:** Flutter, Node.js, Spring Boot *(learning)*  
 - **Focus Areas:** Mobile App Development, UI/UX, REST API Integration  
 
 ---
